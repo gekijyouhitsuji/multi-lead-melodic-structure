@@ -47,3 +47,6 @@ inviting sustained engagement instead of moment-based impact.
 
 Perceived balance is maintained without foreground–background separation,
 encouraging non-hierarchical listening.
+
+## Prototypical Archetype
+While this structure is conceptually independent of specific instrumentation, its quintessential archetype—and the definitive standard for full-track duration enforcement—is realized through the absolute parallel pairing of a lead vocal and an electric guitar solo maintained at equal perceptual presence.
