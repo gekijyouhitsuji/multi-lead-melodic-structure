@@ -52,4 +52,4 @@ encouraging non-hierarchical listening.
 While this structure is conceptually independent of specific instrumentation, its quintessential archetype—and the definitive standard for full-track duration enforcement—is realized through the absolute parallel pairing of a lead vocal and an electric guitar solo, or alternatively, a synthesizer solo, maintained at equal perceptual presence.
 
 ## Output Level Requirement
-In the prototypical archetype, the lead vocal and the electric guitar solo—or synthesizer solo—are maintained at equivalent output levels throughout the track. Neither line is mixed lower, pushed to the background, or treated as subordinate at any point. Both lines run simultaneously at equal volume from start to finish.
+In the prototypical archetype, the lead vocal and the electric guitar solo—or synthesizer solo—are maintained at equivalent output levels throughout the track. Neither line is mixed lower, pushed to the background, or treated as subordinate at any point. Both lines run simultaneously at equivalent volume from start to finish.
